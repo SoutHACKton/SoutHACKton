@@ -1,5 +1,13 @@
-# SoutHACKton Wiki
+# SoutHACKton
 
-Please use the [Wiki tab][] of this repository, not the repository itself.
+This is a general repository for SoutHACKton related things.
 
-[Wiki tab]: https://github.com/SoutHACKton/Wiki/wiki
+## Wiki
+
+SoutHACKton's wiki is the [Wiki tab][] of this repository. 
+
+### Wiki Access
+You can request access by posting your GitHub username to our [mailing list][].
+
+[Wiki tab]: https://github.com/SoutHACKton/SoutHACKton/wiki
+[mailing list]: https://groups.google.com/forum/?fromgroups#!forum/southackton
