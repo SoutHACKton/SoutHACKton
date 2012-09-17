@@ -1,1 +1,5 @@
-## SoutHACKton Wiki is located at [hackerspaces.org/wiki/Southackton](http://hackerspaces.org/wiki/Southackton)
+# SoutHACKton Wiki
+
+Please use the [Wiki tab][] of this repository, not the repository itself.
+
+[Wiki tab]: https://github.com/SoutHACKton/Wiki/wiki
