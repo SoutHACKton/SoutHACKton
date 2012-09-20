@@ -148,16 +148,16 @@ Thanks so much for filling out the survey!
 Benjie
 
 [surveypost]: http://southackton.org.uk/2012/09/07/southackton-survey-2012/
-[graph1]: images/01.howmany.png
-[graph2]: images/02.interest.png
-[graph3]: images/03.subscription.png
-[graph4]: images/04.activities.png
-[graph5]: images/05.storage.png
-[graph6]: images/06.ventilation.png
-[graph7]: images/07.machinery.png
-[graph8]: images/08.fridge.png
-[graph9]: images/09.kitchen.png
-[graph10]: images/10.meetingrooms.png
-[graph11]: images/11.discover.png
+[graph1]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/01.howmany.png
+[graph2]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/02.interest.png
+[graph3]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/03.subscription.png
+[graph4]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/04.activities.png
+[graph5]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/05.storage.png
+[graph6]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/06.ventilation.png
+[graph7]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/07.machinery.png
+[graph8]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/08.fridge.png
+[graph9]:  https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/09.kitchen.png
+[graph10]: https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/10.meetingrooms.png
+[graph11]: https://raw.github.com/SoutHACKton/SoutHACKton/master/SurveyResults/images/11.discover.png
 
 [SoutHACKton]: http://soha.org.uk/ "SoutHACKton - Southampton Hackerspace Project"
